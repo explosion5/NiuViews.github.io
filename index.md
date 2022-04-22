@@ -128,7 +128,7 @@ All sensors (including RGB cameras and LiDARs) are set on vehicles as well as ro
 	    <td>4</td>
         <td>0.3+h<sub>veh</sub><sup>*</sup>
 	</tr>
-    <tr >
+        <tr >
 	    <td rowspan="7">LiDAR</td>
 	    <td>Number of lasers</td>
 	    <td>64</td>
