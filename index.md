@@ -6,19 +6,19 @@
 
 *   [Setup](#setup)
 
-    *   [Scene Setup](#scene-setup)
-    *   [Sensors Setup](#sensors-setup)
+    *   [Scene Setup](##scene-setup)
+    *   [Sensors Setup](##sensors-setup)
 
 *   [Usage](#usage)
 
-    *   [Data Format Description](#data-format-description)
+    *   [Data Format Description](##data-format-description)
 
-    *   [Annotations](#annotations)
+    *   [Annotations](##annotations)
 
-        *   [The label files](#the-label-files)
-        *   [The loc files](#the-loc-files)
+        *   [The label files](###the-label-files)
+        *   [The loc files](###the-loc-files)
 
-    *   [Calibration](#calibration)
+    *   [Calibration](##calibration)
 
         *   [coordinate transformation between cameras](#coordinate-transformation-between-cameras)
         *   [coordinate transformation between LiDAR and camera](#coordinate-transformation-between-lidar-and-camera)
