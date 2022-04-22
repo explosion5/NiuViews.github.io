@@ -284,3 +284,9 @@ To project a point from Velodyne coordinates(\*ego \**vehicle*)  into the \*ego 
 you can use this formula: `x = P0 * R0_rect * Tr_velo_to_cam * y`
 
 You just need to replace `Tr_velo_to_cam` by `Tr_velo_r_to_cam` or `Tr_velo_rc_to_cam` to project a point from Velodyne coordinates(*unit 1* or *unit 2*)  into the *ego vehicle*'s color image.
+
+# Contact
+
+[NiuLab](http://network.ee.tsinghua.edu.cn/niulab/ "NiuLab")
+
+mrq20@mails.tsinghua.edu.cn
