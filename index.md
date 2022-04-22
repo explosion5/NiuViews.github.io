@@ -248,7 +248,6 @@ In the loc files all values are separated via spaces. The first row corresponds 
 ```text
 x_ego_cam y_ego_cam z_ego_cam pitch_ego_cam yaw_ego_cam roll_ego_cam
 x_aux_cam y_aux_cam z_aux_cam pitch_aux_cam yaw_aux_cam roll_aux_cam
-
 ```
 
 ## **Calibration**
