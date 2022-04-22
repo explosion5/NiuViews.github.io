@@ -162,8 +162,7 @@ All sensors (including RGB cameras and LiDARs) are set on vehicles as well as ro
 	    <td >General proportion of points that are randomly dropped</td>
 	    <td>0.1</td>
         <td>0.1</td>
-	</tr>
-	
+	</tr>	
 </table>
 *height of the ego vehicle
 
