@@ -287,6 +287,6 @@ You just need to replace `Tr_velo_to_cam` by `Tr_velo_r_to_cam` or `Tr_velo_rc_t
 
 # Contact
 
-[NiuLab](http://network.ee.tsinghua.edu.cn/niulab/ "NiuLab")
+[Network Integration for Ubiquitous Linkage and Broadband (NiuLab)](http://network.ee.tsinghua.edu.cn/niulab/ "NiuLab")
 
-mrq20@mails.tsinghua.edu.cn
+Email: mrq20@mails.tsinghua.edu.cn
