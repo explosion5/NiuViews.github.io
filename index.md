@@ -246,6 +246,7 @@ we provide the location and rotation (Euler angle) information of cameras on the
 In the loc files all values are separated via spaces. The first row corresponds to the information of the *ego vehicle* while the second row records *auxiliary vehicle* (if it exists). The location and rotation values are in the form of [CARLA.transform](https://carla.readthedocs.io/en/0.9.12/python_api/#carlatransform "CARLA.transform"). The data is described as following :
 
 ```纯文本
+
 x_ego_cam y_ego_cam z_ego_cam pitch_ego_cam yaw_ego_cam roll_ego_cam
 x_aux_cam y_aux_cam z_aux_cam pitch_aux_cam yaw_aux_cam roll_aux_cam
 
