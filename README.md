@@ -1,4 +1,4 @@
-# The Niuviews dataset
+# The NiuViews dataset
 
 ## Catalogue
 
