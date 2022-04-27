@@ -21,11 +21,11 @@
 
 # Overview
 
-DOLPHINS, Dataset for cOLlaborative Perception enabled Harmonious and INterconnected Self-driving, provides visual and LiDAR information collected from different perspectives when the car is moving. We use the [CARLA simulator](http://carla.org/ "Carla simulator") to complete this work, which can provide us with realistic environment modeling, as well as dynamics and sensors simulations of various vehicle.
+DOLPHINS, Dataset for cOLlaborative Perception enabled Harmonious and INterconnected Self-driving, provides temporally aligned visual and LiDAR information collected from different perspectives, i.e. vehicles and road side units. We use the [CARLA simulator](http://carla.org/ "Carla simulator") to complete this work, which can provide us with realistic environment modeling, as well as dynamics and sensors simulations of various vehicle.
 
 Our dataset contains 6 different scenarios, including urban intersections, ramps, and highways. Considering the actual driving situation, we meticulously set 3 different viewpoints for each scenario, which will be explained later. For each viewpoint in each scenario, our dataset contains more than 6000 images with the size of 1920 × 1080. Each image includes 3-10 vehicles, and for reasonable scenarios, their images also consist of 1-5 pedestrians. The annotations per image include the following: (i) 2D bounding box of the object in the image, (ii) 3D object dimensions and location, (iii) the value of alpha and rotation y which are defined in  [the KITTI Vision Benchmark](http://www.cvlibs.net/datasets/kitti/eval_3dobject.php "the KITTI Vision Benchmark"). Besides, to increase the practicability of our dataset, we also provide the corresponding point clouds and calibration files, and the labels are formatted as that of the KITTI Vision Benchmark.
 
-To get download links of the dataset, please refer to [Contact](#contact) section.
+To get download links of the dataset, please refer to [Contact](#contact).
 
 # Setup
 
