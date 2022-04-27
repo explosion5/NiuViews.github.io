@@ -12,9 +12,7 @@
 *   [Usage](#usage)
 
     *   [Data Format Description](#data-format-description)
-
     *   [Annotations](#annotations)
-
     *   [Calibration](#calibration)
 
 *   [Contact](#contact)
