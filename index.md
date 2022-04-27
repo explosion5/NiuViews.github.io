@@ -15,13 +15,7 @@
 
     *   [Annotations](#annotations)
 
-<!--         *   [The label files](#the-label-files)
-        *   [The loc files](#the-loc-files) -->
-
     *   [Calibration](#calibration)
-
-<!--         *   [coordinate transformation between cameras](#coordinate-transformation-between-cameras)
-        *   [coordinate transformation between LiDAR and camera](#coordinate-transformation-between-lidar-and-camera) -->
 
 *   [Contact](#contact)
 
