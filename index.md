@@ -110,7 +110,7 @@ All sensors (including RGB cameras and LiDARs) are set on vehicles as well as ro
 </center>
 
 
-    *height of the ego vehicle
+  *height of the ego vehicle
 
 
 *   Installation of sensors :
