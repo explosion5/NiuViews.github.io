@@ -105,7 +105,7 @@ All sensors (including RGB cameras and LiDARs) are set on vehicles as well as ro
 
 <center>
 <figure>
-<img src="resource/image/sensor_setup.jpg" style="zoom:90%" />
+<img src="resource/image/sensor_setup.jpg" style="zoom:80%" />
 </figure>
 </center>
 
