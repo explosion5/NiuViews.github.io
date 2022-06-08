@@ -23,7 +23,7 @@
 
 <!-- <iframe src="https://player.bilibili.com/player.html?aid=298667667&bvid=BV1nF411T7QG&cid=589479413&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500px" scrolling="no" frameborder="no" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe> -->
 
-<video controls controlsList="nodownload" width="100%" height="auto">
+<video controls width="100%" height="auto">
    <src="resource/video/Dolphins.mp4" 
 </video>
 
