@@ -24,7 +24,7 @@
 <!-- <iframe src="https://player.bilibili.com/player.html?aid=298667667&bvid=BV1nF411T7QG&cid=589479413&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500px" scrolling="no" frameborder="no" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe> -->
 
 <video controls="controls" width="100%" height="auto">
-   <src="resource/video/Dolphins.mp4" 
+   <source type="video/mp4" src="resource/video/Dolphins.mp4">
 </video>
 
 DOLPHINS, Dataset for cOLlaborative Perception enabled Harmonious and INterconnected Self-driving, provides temporally aligned visual and LiDAR information collected from different perspectives, i.e. vehicles and road side units. We use the [CARLA simulator](http://carla.org/ "Carla simulator") to complete this work, which can provide us with realistic environment modeling, as well as dynamics and sensors simulations of various vehicle.
