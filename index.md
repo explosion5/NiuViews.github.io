@@ -248,6 +248,8 @@ All of the Dolphins dataset (data, annotation and software) are copyright by Tsi
 
 # Citation
 
+[arxiv](https://arxiv.org/abs/2207.07609)
+
 ```
 @misc{2207.07609,
 Author = {Ruiqing Mao and Jingyu Guo and Yukuan Jia and Yuxuan Sun and Sheng Zhou and Zhisheng Niu},
