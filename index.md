@@ -251,11 +251,13 @@ All of the Dolphins dataset (data, annotation and software) are copyright by Tsi
 [arxiv](https://arxiv.org/abs/2207.07609)
 
 ```
-@misc{2207.07609,
-Author = {Ruiqing Mao and Jingyu Guo and Yukuan Jia and Yuxuan Sun and Sheng Zhou and Zhisheng Niu},
-Title = {DOLPHINS: Dataset for Collaborative Perception enabled Harmonious and Interconnected Self-driving},
-Year = {2022},
-Eprint = {arXiv:2207.07609},
+@InProceedings{Mao_2022_ACCV,
+    author    = {Mao, Ruiqing and Guo, Jingyu and Jia, Yukuan and Sun, Yuxuan and Zhou, Sheng and Niu, Zhisheng},
+    title     = {DOLPHINS: Dataset for Collaborative Perception enabled Harmonious and Interconnected Self-driving},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {December},
+    year      = {2022},
+    pages     = {4361-4377}
 }
 ```
 
