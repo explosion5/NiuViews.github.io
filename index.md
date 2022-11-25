@@ -248,7 +248,7 @@ All of the Dolphins dataset (data, annotation and software) are copyright by Tsi
 
 # Citation
 
-[arxiv](https://arxiv.org/abs/2207.07609)
+[ACCV 2022](https://openaccess.thecvf.com/content/ACCV2022/papers/Mao_DOLPHINS_Dataset_for_Collaborative_Perception_enabled_Harmonious_and_Interconnected_Self-driving_ACCV_2022_paper.pdf)
 
 ```
 @InProceedings{Mao_2022_ACCV,
